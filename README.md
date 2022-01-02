@@ -2,6 +2,7 @@
 Project for Fundamentals of Data Analysis (GMIT Data Analytics 2021)
 
 Author: Shane Austin
+
 Student: G00318488
 
 This repository contains the project for Fundamentals of Data Analysis a 5 credit module as part of the Higher Diploma in Data ANalytics GMIT 2021. 
@@ -22,6 +23,8 @@ The notebook covers:
 * Histograms
 * Scatterplots
 * Boxplots
+
+The main dataset used is Fisher's Iris data set
 
 The notebook can be viewed here:
 
@@ -48,9 +51,29 @@ To run the code locally this repository can be cloned and run using a python IDE
 * Refer to the ```requirements.txt``` and import as required
 * Install Jupyter
 * Run in Jupyter notebook
-* Open and Run "cao.ipynb" or pyplot.ipynb
+* Open and Run ```cao.ipynb``` or ```pyplot.ipynb```
+* Once in the notebook, on the menu bar select Kernel and then click on the "Restart and run all" option.
+* When you have finished, close or exit the tab in your browser.
+* Enter "Ctrl + C" in the command prompt to end the jupyter lab session.
 
 ---
+### Requirements
+
+* matplotlib==3.3.2
+* numpy==1.21.4
+* pandas==1.1.3
+* plotly==5.5.0
+* requests==2.24.0
+* seaborn==0.11.0
+
+The packages can be installed using ```pip install```
+
+pip install -r requirements.txt
+
+---
+### Credits
+
+[Ian McCloughlin](https://github.com/ianmcloughlin/cao-points)
 
 
 
