@@ -25,7 +25,7 @@ The notebook covers:
 
 The notebook can be viewed here:
 
-[![nbviewer](https://nbviewer.org/github/ShanePAustin/fundamentals-of-data-analysis/blob/main/pyplot.ipynb)](https://nbviewer.jupyter.org/...)
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/ShanePAustin/fundamentals-of-data-analysis/blob/main/pyplot.ipynb)
 
 #### CAO data
 
@@ -35,7 +35,7 @@ This project focused on data from 2019, 2020 and 2021 for level 8 courses.
 
 The notebook can be viewed here:
 
-[![nbviewer](https://nbviewer.org/github/ShanePAustin/fundamentals-of-data-analysis/blob/main/cao.ipynb)](https://nbviewer.jupyter.org/...)
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/ShanePAustin/fundamentals-of-data-analysis/blob/main/cao.ipynb)
 
 ---
 
